@@ -1,5 +1,7 @@
 # sundial
 
-This is an app that tells prayer time with repect to the location.
+This is an app that does the following:
 
-Test- model in Java. Android devices.
+[1] Provide the time of prayer according to location
+
+[2] Provide the direction 
